@@ -1,4 +1,5 @@
-ACTUALIZACIÓN TECNOLÓGICA-PARALELO "A"
+ACTUALIZACIÓN TECNOLÓGICA-PARALELO "A" 
+SIS2420
 
 Repositorio principal para práctica de Forking Workflow.
 
