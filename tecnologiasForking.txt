@@ -2,6 +2,7 @@ TECNOLOGÍAS
 
 Tecnologías conocidas:
 Python
+C++
 Haskell
 Java
 Tecnologías que deseo aprender:
